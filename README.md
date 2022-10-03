@@ -1,22 +1,12 @@
-# Titulo del projecto
+# Mapping your future in tech
 
-Tecnologías: HTML, CSS, JS, Bootstrap, Node, express or express-generator.
+Mapping your career is key to ensure that you’ll always be prepare to take the next step in your career and look for the opportunities that are in line with your expectations, skills and overall professional development. 
 
-Vamos a crear un formulario que se rederize desde node/express utilizando el manejado de templates de node `Embedded JavaScript templates`.
-La idea es crear con Bootstrap renderizar los diferentes elementos dentro del diseñor y pasar los datos a mostrar dinamicamente, todos los elementos se deven cargar en una vista principal llamada home.ejs
+Mapping your career will help you identify the skills you need for your job search and put you in the right direction when looking for a job. It will also help you build a strong network of contacts that can help you land your desired job faster.
 
-
-## 🌱  Cómo iniciar este proyecto
-
-a) Configura express desde cero.
-
-b) Crear el proyecto usando express-generator.
-
-💡 Importante: guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
-
-## Estrategia
-
-Tomate unos minutos para analizar 🤯 la imagen y dibuja tu estrategia sobre ella, identifica los componentes que vas a utilizar de bootstrap:
-
-Una vez terminada la estrategia puedes empezar a codificar, 
-¡Empieza a programar 🎊!
+- [ ] Check this  [Tech Jobs Database ](https://www.notion.so/4geeksacademy/91879de168be4c58b6356c448af28315?v=0b1da992e6e74ef3b5c236acfc552246) 
+- [ ] Read the job description and identify your skills level and where your profile could fit. Pick one job and we will work on optimizing your profile for that one
+- [ ]  Fill out this typeform
+- [ ] Schedule a meeting with your Career Support advisor. What you should do before: 
+- [ ] Find at least 2 jobs that match your skills and interests (we will prepare your application during the meeting)
+	- [ ] Identify the main skills required for the job as well as your transferable skills (the ones that you acquired from past experiences that could help you in this new job) 
