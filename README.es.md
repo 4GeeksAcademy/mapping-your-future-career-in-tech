@@ -6,7 +6,7 @@ El mapeo de tu carrera te ayudará a identificar las habilidades que necesitas p
 
 - [ ] Verifica esto [Base de datos de trabajos tecnológicos](https://www.notion.so/4geeksacademy/91879de168be4c58b6356c448af28315?v=0b1da992e6e74ef3b5c236acfc552246) 
 - [ ] Lee la descripción del trabajo e identifica tu nivel de habilidades y dónde podría encajar tu perfil. Elije un trabajo y trabajaremos en la optimización de tu perfil para ese.
-- [ ] Rellena [este typeform](https://marketing892162.typeform.com/to/JJcKYbcw).
+- [ ] Rellena [este typeform](https://marketing892162.typeform.com/to/JJcKYbcw) te ayudará a conocerte mejor y prepararte para tu próxima reunión.
 - [ ] Programa una reunión con tu asesor de Career Support. 
 
 Lo que debes hacer antes:  
