@@ -7,7 +7,7 @@ Mapping your career will help you identify the skills you need for your job sear
 - [ ] Fill out [this typeform](https://marketing892162.typeform.com/to/JJcKYbcw) to help you understand your profile better and get ready for the next meeting.
 - [ ] Schedule a meeting with your Career Support advisor: [Valentina Ancieta](https://calendly.com/valentinaancieta/30min) or [Valentina Jimenez](https://calendly.com/valentina4geeks)
 
-What you should do before:  
+What you should do before the meeting:  
 
 - [ ] Find at least 2 jobs that match your skills and interests (we will prepare your application during the meeting)	
 - [ ] Identify the main skills required for the job as well as your transferable skills (the ones that you acquired from past experiences that could help you in this new job) 
