@@ -7,7 +7,7 @@ Mapping your career will help you identify the skills you need for your job sear
 - [ ] Check this  [Tech Jobs Database ](https://www.notion.so/4geeksacademy/91879de168be4c58b6356c448af28315?v=0b1da992e6e74ef3b5c236acfc552246) 
 - [ ] Read the job description and identify your skills level and where your profile could fit. Pick one job and we will work on optimizing your profile for that one
 - [ ] Fill out [this typeform](https://marketing892162.typeform.com/to/JJcKYbcw) to help you understand your profile better and get ready for the next meeting.
-- [ ] Schedule a meeting with your Career Support advisor. 
+- [ ] Schedule a meeting with your Career Support advisor: [Valentina Ancieta](https://calendly.com/valentinaancieta/30min) or [Valentina Jimenez](https://calendly.com/valentina4geeks)
 
 What you should do before:  
 
