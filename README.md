@@ -2,10 +2,10 @@
 
 Mapping your career will help you identify the skills you need for your job search and put you in the right direction when looking for a job. It will also help you build a strong network of contacts that can help you land your desired job faster.
 
-- [ ] Check this  [Tech Jobs Database ](https://www.notion.so/4geeksacademy/91879de168be4c58b6356c448af28315?v=0b1da992e6e74ef3b5c236acfc552246) 
+- [ ] Check this  [Tech Jobs Database ](https://www.notion.so/4geeksacademy/Tech-Jobs-Database-Trabajos-en-Tech-ae24fda7db3f44f69777a31fbc92dbd7) 
 - [ ] Read the job description and identify your skills level and where your profile could fit. Pick one job and we will work on optimizing your profile for that one
-- [ ] Fill out [this typeform](https://marketing892162.typeform.com/to/JJcKYbcw) to help you understand your profile better and get ready for the next meeting.
-- [ ] Schedule a meeting with your Career Support advisor: [Valentina Ancieta](https://calendly.com/valentinaancieta/30min) or [Valentina Jimenez](https://calendly.com/valentina4geeks)
+- [ ] Fill out [this typeform](https://www.notion.so/4geeksacademy/Mapping-your-future-career-in-tech-Mapeando-tu-carrera-en-tech-aa0996fe34dc4f638440725a89861308) to help you understand your profile better and get ready for the next meeting.
+- [ ] Schedule a meeting with your Career Support advisor by [clicking here](https://www.notion.so/4geeksacademy/Schedule-your-Meeting-Agenda-tu-reuni-n-edb7ea7532bb4d9591f6d2ec8ef0168b)
 
 What you should do before the meeting:  
 
