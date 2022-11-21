@@ -4,10 +4,10 @@ El mapeo de tu carrera es clave para garantizar que siempre estarás preparado p
 
 El mapeo de tu carrera te ayudará a identificar las habilidades que necesitas para tu búsqueda de empleo y te pondrá en la dirección correcta cuando busques un trabajo. También te ayudará a construir una sólida red de contactos que pueden ayudarte a conseguir tu trabajo deseado más rápido.
 
-- [ ] Verifica esto [Base de datos de trabajos tecnológicos](https://www.notion.so/4geeksacademy/91879de168be4c58b6356c448af28315?v=0b1da992e6e74ef3b5c236acfc552246) 
+- [ ] Verifica esto [Base de datos de trabajos tecnológicos](https://www.notion.so/4geeksacademy/Tech-Jobs-Database-Trabajos-en-Tech-ae24fda7db3f44f69777a31fbc92dbd7) 
 - [ ] Lee la descripción del trabajo e identifica tu nivel de habilidades y dónde podría encajar tu perfil. Elije un trabajo y trabajaremos en la optimización de tu perfil para ese.
-- [ ] Rellena [este typeform](https://marketing892162.typeform.com/to/JJcKYbcw) te ayudará a conocerte mejor y prepararte para tu próxima reunión.
-- [ ] Programa una reunión con tu asesor de Career Support. 
+- [ ] Rellena [este typeform](https://www.notion.so/4geeksacademy/Mapping-your-future-career-in-tech-Mapeando-tu-carrera-en-tech-aa0996fe34dc4f638440725a89861308) te ayudará a conocerte mejor y prepararte para tu próxima reunión.
+- [ ] Programa una reunión con tu asesor de Career Support haciendo click [aquí](https://www.notion.so/4geeksacademy/Schedule-your-Meeting-Agenda-tu-reuni-n-edb7ea7532bb4d9591f6d2ec8ef0168b)
 
 Lo que debes hacer antes:  
 
