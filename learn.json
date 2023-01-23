@@ -13,5 +13,7 @@
   "projectType":"project",
   "validationAt":1664814940545,
   "validationStatus":"success",
-  "delivery_formats": "no_delivery"
+  "delivery": {
+    "formats": "no_delivery"
+  }
 }
