@@ -12,5 +12,6 @@
   "autoPlay":false,
   "projectType":"project",
   "validationAt":1664814940545,
-  "validationStatus":"success"
+  "validationStatus":"success",
+	"delivery_formats": "no_delivery"
 }
